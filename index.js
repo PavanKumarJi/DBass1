@@ -6,7 +6,7 @@ local    0.000GB
 student  0.000GB
 > db.human.find().pretty()
 {
-        "_id" : ObjectId("62e1445a6cbac12b436a7deb")
+        "_id" : ObjectId("62e1445a6cbac12b436a7deb"),
         "firstName" : "John",
         "lastName" : "Doe",
         "salary" : "25000",
